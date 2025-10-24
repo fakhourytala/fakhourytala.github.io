@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computational Neuroscience, Columbia University, 
+* Ph.D. in Computational Neuroscience, Columbia University, 2022-present
 * M.S.E. in Bioengineering, University of Pennsylvania, 2021
 * B.S.E. in Biomedical Engineering and B.Sc. in Neuroscience, Duke University, 2019
 
