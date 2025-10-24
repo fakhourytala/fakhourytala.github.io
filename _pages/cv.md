@@ -11,54 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Computational Neuroscience, Columbia University, 
+* M.S.E. in Bioengineering, University of Pennsylvania, 2021
+* B.S.E. in Biomedical Engineering and B.Sc. in Neuroscience, Duke University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* July 2021-July 2022: Technical Associate I
+  * DiCarlo Lab, Massachusetts Institute of Technology
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+* Duke Arab Alumni Association, Co-founder, May 2020 – present
+  * Founded and currently leading the alumni association which aims to create an academic and professional network and increase opportunities for Arab students and graduates.
+  * Creating an intercollegiate fund to provide scholarships for Lebanese students who are no longer able to pursue academic programs due to the economic crisis and the devaluation of the Lebanese currency.
+
+* Beirut Madinati, Volunteer, August – September 2020
+  * Helped clean, salvage, and rebuild homes for the victims of the August 4 explosion in Beirut, Lebanon.
+  * Distributed food rations and medications to affected families. 
+
+* Engineering World Health, Project Leader for Infant Audiometer Team, 2018-2019
+  * Built a portable 3 lead EEG audiometer to detect hearing deficiencies using auditory brainstem response.
+
+* Girls Engineering Change, Volunteer and Tutor 2016-2018
+  * Led and taught soldering workshops at local middle schools to inspire and motivate young girls to pursue careers in engineering and STEM. 
