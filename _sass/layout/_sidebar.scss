@@ -93,13 +93,24 @@
     height: auto;
   }
 
-  img {
-    max-width: 175px;
-    border-radius: 50%;
+  // img {
+  //   max-width: 175px;
+  //   border-radius: 50%;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
+  //   @include breakpoint($large) {
+  //     padding: 5px;
+  //     border: 1px solid var(--global-border-color);
+  //   }
+  // }
+  img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;   // crops without distortion
+  border-radius: 0;    // square, not round
+
+  @include breakpoint($large) {
+    padding: 5px;                           // optional
+    border: 1px solid var(--global-border-color); // optional
     }
   }
 }
