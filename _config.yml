@@ -24,6 +24,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
+  caption          : "Prizren, Kosovo. April 2025"
   name             : "Tala Fakhoury"
   pronouns         : "she/her"  
   bio              : "Neuroscience and Existentialism"
