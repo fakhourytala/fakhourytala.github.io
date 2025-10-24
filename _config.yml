@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tala Fakhoury"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Neuroscience, Math, and Existentialism"
+  location         : "New York, USA"
+  employer         : "Center for Theoretical Neuroscience, Columbia University"
   uri              : # URL
-  email            : "none@example.org" 
+  # email            : "tf2546@columbia.edu" 
 
   # Academic websites
   academia         : # URL
