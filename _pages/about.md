@@ -7,5 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Sorry! Website is currently under maintenance.... Come back later :)
+Hi there! Sorry, this website is currently under maintenance.... Come back again later :)
 =====
+
+Here is a link to a fun game if you were hoping to find some entertainment here:
+[Play Jumblie](https://jumblie.com)
