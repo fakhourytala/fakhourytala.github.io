@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-Sorry website is under maintenance.... Come back later :)
+Sorry! Website is currently under maintenance.... Come back later :)
 =====
