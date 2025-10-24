@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tala Fakhoury"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Neuroscience, Math, and Existentialism"
   location         : "New York, USA"
   employer         : "Center for Theoretical Neuroscience, Columbia University"
