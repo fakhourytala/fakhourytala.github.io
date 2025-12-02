@@ -19,10 +19,6 @@ Work experience
 ======
 * July 2021-July 2022: Technical Associate I
   * DiCarlo Lab, Massachusetts Institute of Technology
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-
   
 Service and leadership
 ======
