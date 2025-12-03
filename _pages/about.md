@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Hi there! Sorry, this website is currently under maintenance.... Come back again later :)
-# =====
-
 If you were hoping to find some entertainment, here is a link to a fun game :
 [Play Jumblie](https://jumblie.com)
 
