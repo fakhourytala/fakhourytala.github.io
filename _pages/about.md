@@ -1,14 +1,14 @@
 ---
 permalink: /
-# title: "Test. Test. 1. 2. 3. Does this work?"
+title: "Hi there! Sorry, this website is currently under maintenance…. Come back again later :)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi there! Sorry, this website is currently under maintenance.... Come back again later :)
-=====
+# Hi there! Sorry, this website is currently under maintenance.... Come back again later :)
+# =====
 
 If you were hoping to find some entertainment, here is a link to a fun game :
 [Play Jumblie](https://jumblie.com)
